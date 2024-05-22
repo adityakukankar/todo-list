@@ -1,0 +1,5 @@
+# Ignore all .tpl files from language statistics
+*.tpl linguist-language=Ignore
+
+# Ensure .go files are recognized as Go language
+*.go linguist-language=Go
